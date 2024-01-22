@@ -1,0 +1,25 @@
+:root{
+    --background-color: white  ;
+    --bg-hover : lightgrey;
+    --search-bg : lightgrey;
+    --text-color: black;
+    --text2-color: grey;
+
+    --default-bg: white;
+    --default-bg1: lightgrey;
+    --default-color: black;
+    --LoginRightPage-font: white;
+
+    --defaultChatColor-text:black;
+    --defaultChatBackground-color:white;
+
+    --ChatColor-text:white;
+    --ChatBackground-color: black;
+
+    
+
+
+}
+
+
+
